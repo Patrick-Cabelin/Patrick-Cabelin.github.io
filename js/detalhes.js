@@ -43,6 +43,7 @@ class Detalhes {
       pontos.map((ponto) => {
         ponto.addEventListener("mouseenter", () => {
           descricao(ponto);
+          console.log(ponto)
         });
       });
 
@@ -53,7 +54,7 @@ class Detalhes {
                             fraco: Noção completamente básica no assunto
                         </p>`;
             break;
-          case "xp medio":
+            case "xp medio":
             definicao.innerHTML = `<p>
                             Médio: Consegue manter um assunto sobre, pórem nada muito profundo e técnico
                         </p>`;
@@ -81,3 +82,10 @@ class Detalhes {
     });
   }
 }
+
+
+/*
+\Patrick-Cabelin\Timer-concentration
+
+
+*/

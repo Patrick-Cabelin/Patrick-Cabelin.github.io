@@ -12,6 +12,7 @@ class HotBar {
   nomeDaPagina() {
     this.setinha();
     this.mudarSessao()
+
     this.pag.forEach((icone) => {
       icone.addEventListener('mouseenter', () => {
         console.log();
@@ -44,7 +45,7 @@ class HotBar {
     const slots = this.hotBar.querySelectorAll('.slot');
     let qualSlot = 0;
     window.addEventListener('keydown', (chave) => {
-      // this.mudarSessao(chave.key)
+      
       selecionado(chave.key);
     }) 
     const setinhaNome = () => {
@@ -120,11 +121,7 @@ class HotBar {
     const pag= this.pag
     
     pag.forEach((butao)=>{
-      butao.addEventListener('click', ()=>{this.selecao(butao)
-        console.log(butao )  
-      
-      })
-    });
+      butao.addEventListener('click', ()=>{this.selecao(butao)})});
   }
   
   selecao(butao){
