@@ -27,6 +27,7 @@ section {
 #sobre_mim{
     width: 100%;
     margin-top: 2rem;
+    gap: 2.5rem;
 }
 .habilidade {
     width: 100%;
@@ -38,8 +39,9 @@ section {
     gap:0.5rem;
 }
 
-#definição{
-    display: none;
+#definicao{
+    /* display: none; */
+    top:35rem;
 }
 
 #projetos {
