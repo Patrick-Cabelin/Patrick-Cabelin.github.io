@@ -21,7 +21,6 @@ Como sou um apaixonado por RPG (Roleplaying
 - Favicon : É o símbolo dos Adepdos da virtualidade, uma Tradição de magos no Cenário de Mago a ascensão (World Of Darkness), simplificando são magos da computação.
 - Sobre mim : Como eu gostaria de transmitir minhas habilidades de uma forma que eu possa auto-avaliar sem passar uma mensagem errada, como exemplo { sei 50% de javascript }, mas o que é 50% de javascript?. Dessa forma pensei em utilizar graus de nível usado nas ficha do sistema de World of Darkness, que uma certa liberdade de interpretação da habilidade.
 - O menu: Uma referência direta ao jogo Minecraft, que mesmo não sendo um superfã ou algo do tipo, é um jogo que fez parte da minha vida, e é um ótimo passatempo.
-- Responsivo: Como esse projeto foi criando forma por si só, ainda não está responsivo, porém já está na minha lista de implementação, sendo assim já tenho pontos de melhorias e de evolução e estudo.
 
 ## Estrutura do Projeto 
 
