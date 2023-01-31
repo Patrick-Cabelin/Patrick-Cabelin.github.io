@@ -24,9 +24,6 @@ section {
 
 }
 
-.menu_bar{
-    width: 100%;
-}
 #sobre_mim{
     width: 100%;
 }
@@ -48,4 +45,30 @@ section {
     flex-direction: column;
     gap: 15rem;
     width: 100%;
+}
+
+#qr{
+    display:none;
+}
+
+.menu_bar{
+    width: 100%;
+}
+.slot{
+    flex:0;
+}
+#hot_bar div:nth-child(5){
+   display:none;
+}
+#hot_bar div:nth-child(6){
+   display:none;
+}
+#hot_bar div:nth-child(7){
+   display:none;
+}
+#hot_bar div:nth-child(8){
+   display:none;
+}
+#hot_bar div:nth-child(9){
+   display:none;
 }
