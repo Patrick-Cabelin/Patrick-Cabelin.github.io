@@ -4,10 +4,10 @@
 ## Um pouco sobre minha idéia
 
 ~~~ 
-Existe um mundo novo lá fora, esperando para ser tocado.
-Eu lhe fornecerei os sentidos e abrirei a porta... Você só precisa entrar.
+A verdadeira maravilha da ciência não está na sua habilidade de explicar o universo.
+Mas na capacidade de formular novas questões.
 
-[Adepdos da virtualidade]
+[Filhos do Éter]
 ~~~
 
 Bom, esse é o meu primeiro Projeto completo e exclusivamente autoral, meu Portfolio, 
