@@ -1,22 +1,51 @@
+section {
+    width: 100%;
+    align-items: center;   
+    justify-content: flex-start;
+    flex-direction: column;
+    gap: 3rem;
+
+}
 
 #inicio{
-    flex-direction: row;
-    gap:0rem;
+    flex-direction: column;
+    
 }
-/* .eu {
-    background: transparent url(eu.svg) no-repeat center center;
-    width: 32.2rem;
-    height: 27.1rem;
-} */
+
+.eu {
+    width: 27.2rem;
+    height: 26rem;
+}
+.aoba {
+    width: 100%;
+   
+    padding-bottom: 16rem;
+    margin: 5rem 0rem 8rem;
+
+}
+
+.menu_bar{
+    width: 100%;
+}
+#sobre_mim{
+    width: 100%;
+}
+.habilidade {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+.ficha{
+    gap:0.5rem;
+}
+
+#definição{
+    display: none;
+}
 
 #projetos {
     flex-direction: column;
-    align-items: center;
-
-    gap: 12rem;
-    width: 72rem;
-}
-
-#qr{
-    display:none;
+    gap: 15rem;
+    width: 100%;
 }
