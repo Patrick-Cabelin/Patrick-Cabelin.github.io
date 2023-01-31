@@ -1,0 +1,22 @@
+
+#inicio{
+    flex-direction: row;
+    gap:0rem;
+}
+/* .eu {
+    background: transparent url(eu.svg) no-repeat center center;
+    width: 32.2rem;
+    height: 27.1rem;
+} */
+
+#projetos {
+    flex-direction: column;
+    align-items: center;
+
+    gap: 12rem;
+    width: 72rem;
+}
+
+#qr{
+    display:none;
+}
