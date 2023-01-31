@@ -74,9 +74,3 @@ section {
 #hot_bar div:nth-child(9){
    display:none;
 }
-
-@media (min-width: 72rem) and (max-width:108rem) {
-    body{
-        background: darkred;
-    }
-}
