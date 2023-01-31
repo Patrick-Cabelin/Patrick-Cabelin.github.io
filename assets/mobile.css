@@ -20,12 +20,13 @@ section {
     width: 100%;
    
     padding-bottom: 16rem;
-    margin: 5rem 0rem 8rem;
+    margin: 0rem;
 
 }
 
 #sobre_mim{
     width: 100%;
+    margin-top: 2rem;
 }
 .habilidade {
     width: 100%;
@@ -43,7 +44,7 @@ section {
 
 #projetos {
     flex-direction: column;
-    gap: 15rem;
+    gap: 5rem;
     width: 100%;
 }
 
@@ -71,4 +72,10 @@ section {
 }
 #hot_bar div:nth-child(9){
    display:none;
+}
+
+@media (min-width: 72rem) and (max-width:108rem) {
+    body{
+        background: darkred;
+    }
 }
